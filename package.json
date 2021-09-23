@@ -24,7 +24,7 @@
     "web3": "^1.5.1",
     "web3-eth-contract": "^1.5.2"
   },
-  "homepage": "https://leow669.github.com/Test",
+  "homepage": "https://leow669.github.io/Test",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
